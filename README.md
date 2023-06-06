@@ -1,9 +1,9 @@
-[![lint-dockerfile](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/lint-dockerfile.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/lint-dockerfile.yml)
-[![build-test](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/build-test.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/build-test.yml)
-[![push-latest](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/push-latest.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/push-latest.yml)
-[![release](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/release.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/release.yml)
+[![lint-dockerfile](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/lint-dockerfile.yml/badge.svg)](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/lint-dockerfile.yml)
+[![build-test](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/build-test.yml/badge.svg)](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/build-test.yml)
+[![push-latest](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/push-latest.yml/badge.svg)](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/push-latest.yml)
+[![release](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/release.yml/badge.svg)](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/release.yml)
 
-[![dockerhub-description-update](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml/badge.svg)](https://github.com/zenika-open-source/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml)
+[![dockerhub-description-update](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml/badge.svg)](https://github.com/sawdustofmind/terraform-aws-cli/actions/workflows/dockerhub-description-update.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Docker Pulls](https://img.shields.io/docker/pulls/zenika/terraform-aws-cli.svg)](https://hub.docker.com/r/zenika/terraform-aws-cli/)
 
@@ -85,12 +85,12 @@ Do not hesitate to contribute by [filling an issue](https://github.com/Zenika/te
 
 ## 📚 Documentations
 
-* [Dependencies upgrades checklist](https://github.com/zenika-open-source/terraform-aws-cli/tree/master/docs/dependencies-upgrades.md)
-* [Terraform binaries verifications](https://github.com/zenika-open-source/terraform-aws-cli/tree/master/docs/terraform-binaries-verifications.md)
+* [Dependencies upgrades checklist](https://github.com/sawdustofmind/terraform-aws-cli/tree/master/docs/dependencies-upgrades.md)
+* [Terraform binaries verifications](https://github.com/sawdustofmind/terraform-aws-cli/tree/master/docs/terraform-binaries-verifications.md)
 
 ## 🚩 Similar repositories
 
-* For Azure: [zenika-open-source/terraform-azure-cli](https://github.com/zenika-open-source/terraform-azure-cli)
+* For Azure: [sawdustofmind/terraform-azure-cli](https://github.com/sawdustofmind/terraform-azure-cli)
 
 ## 📖 License
 This project is under the [Apache License 2.0](https://raw.githubusercontent.com/Zenika/terraform-aws-cli/master/LICENSE)
